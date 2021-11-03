@@ -1,4 +1,1 @@
-- 👋 Hi, I’m @tinho-mp4
-- 👀 I’m interested in Software Engineering
-- 🌱 I’m currently learning Java, C++ and Python
-- 📫 How to reach me by Messaging bird or my instagram @jndmh
+Hello
