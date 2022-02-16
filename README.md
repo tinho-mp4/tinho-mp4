@@ -1,6 +1,6 @@
 # Welcome to tinho's github
 
-Hi! I'm tinho. I'm a Front-end engineer who specialize in Javascript, HTML and CSS
+Hi! I'm tinho. I'm a Software Engineer from Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 who specialize in React-Native, JavaScript, Python
 
 
 ## About
@@ -13,17 +13,28 @@ Projects I'm working on:
 
 	
 
-### Tools 
+## Skills
 
 ### Programming Language
-Proficient: HTML, CSS, React Native, Python, Java, Adobe Creative Suite, JavaScript  
-Knowledgeable: C++ , C#  
-Familiar: SQL, Maya, .NET, Node.js, TypeScript
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+### Miscellaneous Skills
+#### Office
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ## Git Activity
 
 [
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=tinho-mp4&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://www.linkedin.com/in/juned-miah-877237213/)
+
+![GitHub Streak]( https://github-readme-stats.vercel.app/api/top-langs/?username=tinho-mp4&theme)
 
 ## Contact
 Please feel free to get in touch with me via email at [junedmiah69@outlook.com](**mailto:**junedmiah69@outlook.com?subject=GitHub%5Btinho.mp4%5D).
@@ -33,3 +44,6 @@ Please feel free to get in touch with me via email at [junedmiah69@outlook.com](
 [![Github - Follow](https://img.shields.io/badge/Github-Follow-171515?logo=Github&logoColor=white&style=for-the-badge)](https://github.com/tinho-mp4)
 [![LinkedIn - Connect](https://img.shields.io/badge/LinkedIn-Connect-2867B2?logo=LinkedIn&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/juned-miah-877237213/)
 [![Instagram- Connect](https://img.shields.io/badge/Instagram-Follow-833AB4?logo=Instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/jndmh/)
+[![Github - Follow](https://img.shields.io/badge/Spotify-Follow-1DB954?logo=Spotify&logoColor=white&style=for-the-badge)](https://open.spotify.com/user/lqqdfvk9xyo5wb4q7czeejjig)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2349F707&lines=I'm+A+Goofy+Goobber)](https://git.io/typing-svg)
