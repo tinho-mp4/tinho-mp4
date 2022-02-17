@@ -1,6 +1,6 @@
 # Welcome to tinho's github
 
-Hi! I'm tinho. I'm a Software Engineer from Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 who specialize in React-Native, JavaScript, Python
+Hi! I'm tinho. I'm a Software Engineer from Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 who specialize in JavaScript and Python
 
 
 ## About
