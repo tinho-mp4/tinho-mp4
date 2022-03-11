@@ -25,10 +25,19 @@ Projects I'm working on:
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-54944d?style=for-the-badge&logo=Node.js&logoColor=white)
-
+![ReactNative](https://img.shields.io/badge/react-00A0C4?style=for-the-badge&logo=react&logoColor=white)
 
 ### Miscellaneous Skills
 ![Git](https://img.shields.io/badge/Git-f05033?style=for-the-badge&logo=git&logoColor=white)
+![PhotoShop](https://img.shields.io/badge/Git-f05033?style=for-the-badge&logo=git&logoColor=white)
+![Blender](https://img.shields.io/badge/blender-EA7600?style=for-the-badge&logo=blender&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![VsCode](https://img.shields.io/badge/vscode-0078D7?style=for-the-badge&logo=visualstudio&logoColor=white)
+![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=white)
+![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
+![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-393665.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white)
+
 #### Office
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)
