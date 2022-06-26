@@ -6,21 +6,23 @@ Software Engineer
 
 Hi! I'm tinho. I'm a Software Engineer from Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 who specializes in JavaScript, Python and C#
 
-Projects I'm working on:
-* Create a Digital Portfolio
-* Create QR Code Platform
-* Create Acronym Detection App
-* Create an Instagram Clone
-* Creating 2D Platformer game
-
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [junedmiah69@outlook.com](mailto:junedmiah69@outlook.com)
 * 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  Used to make discord bots for fun
 
+Projects I'm working on
+-----------------
+* Create a Digital Portfolio
+* Create QR Code Platform
+* Create Acronym Detection App
+* Create an Instagram Clone
+* Creating 2D Platformer game
+
 <a href="https://www.github.com/tinho-mp4" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tinho-mp4?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+
 ### Skills
 
 <p align="left">
@@ -47,6 +49,7 @@ src="https://img.shields.io/github/followers/tinho-mp4?logo=github&style=for-the
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/tinho-mp4" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/jndmh" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/juned-miah-877237213/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
+
 ### Badges
 
 <b>My GitHub Stats</b>
