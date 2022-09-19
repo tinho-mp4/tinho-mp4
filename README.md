@@ -13,7 +13,7 @@ Hi! I'm jnd. I'm a Software Engineer from Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 who
 
 Projects I'm working on
 -----------------
-* Create a Digital Portfolio
+* Adding new features to the Digital Portfolio
 * Create QR Code Platform
 * Create Acronym Detection App
 * Create an Instagram Clone
