@@ -1,10 +1,9 @@
-Hi 👋 My name is Juned Miah
 ===========================
 
 Software Engineer
 -----------------
 
-Hi! I'm tinho. I'm a Software Engineer from Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 who specializes in JavaScript, Python and C#
+Hi! I'm jnd. I'm a Software Engineer from Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 who specializes in JavaScript, Python and C#
 
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [junedmiah69@outlook.com](mailto:junedmiah69@outlook.com)
