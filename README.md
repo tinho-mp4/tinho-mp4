@@ -17,7 +17,6 @@ Projects I'm working on
 * Create QR Code Platform
 * Create Acronym Detection App
 * Create an Instagram Clone
-* Creating 2D Platformer game
 
 <a href="https://www.github.com/tinho-mp4" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tinho-mp4?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
