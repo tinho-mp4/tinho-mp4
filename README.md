@@ -6,7 +6,7 @@ Software Engineer
 Hi! I'm jnd. I'm a Software Engineer from Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 who specializes in JavaScript, Python, Java and C#
 
 * 🌍  I'm based in United Kingdom
-* ✉️  You can contact me at [junedmiah69@outlook.com](mailto:junedmiah69@outlook.com)
+* ✉️  You can contact me at [jun3dm1ah@hotmail.com](mailto:jun3dm1ah@hotmail.com)
 * 🧠  I'm learning TypeScript
 * 🤝  I'm open to collaborating on interesting projects
 * ⚡  Used to make discord bots for fun
