@@ -14,9 +14,8 @@ Hi! I'm jnd. I'm a Software Engineer from Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 who
 Projects I'm working on
 -----------------
 * Adding new features to the Digital Portfolio
-* Create QR Code Platform
-* Create Acronym Detection App
 * Create an Instagram Clone
+* Applying for Placements 
 
 <a href="https://www.github.com/tinho-mp4" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/tinho-mp4?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
