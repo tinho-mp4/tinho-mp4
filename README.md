@@ -3,7 +3,7 @@
 Software Engineer
 -----------------
 
-Hi! I'm jnd. I'm a Software Engineer from Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 who specializes in JavaScript, Python, Java and C#
+Hi! I'm Juned. I'm a Software Engineer from Wales 🏴󠁧󠁢󠁷󠁬󠁳󠁿 who specializes in JavaScript, Python, Java and C#
 
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [jun3dm1ah@hotmail.com](mailto:jun3dm1ah@hotmail.com)
